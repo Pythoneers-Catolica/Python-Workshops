@@ -10,7 +10,11 @@ This repository contains the **Jupyter Notebooks** for all workshop sessions. It
 ## Contents
 
 - **Session 0 — Setup & Orientation**  
-  Installing Anaconda and VS Code, introduction to Python, why we use it in finance and automation, what Jupyter Notebooks are, and your very first `print()` statement.
+  1. Installing Anaconda and VS Code.
+  2. Introduction to Python.
+  3. Why we use Python in finance and automation.
+  4. What are Jupyter Notebooks.
+  5. Your very first `print()` statement.
 
 - *(More sessions will be added as the workshop progresses...)*
 
