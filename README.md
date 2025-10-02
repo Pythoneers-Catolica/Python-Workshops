@@ -20,7 +20,7 @@ This repository contains the **Jupyter Notebooks** for all workshop sessions. It
 
 ---
 
-## ⚙️ How to Use These Notebooks
+## How to Use These Notebooks
 
 1. **Install Anaconda** (includes Python, Jupyter, and essential libraries).  
 2. **Install Visual Studio Code (VS Code)** with the Python and Jupyter extensions.  
@@ -45,7 +45,7 @@ This repository contains the **Jupyter Notebooks** for all workshop sessions. It
 - For questions during the workshop, ask in the session or contact the Pythoneers Club.
 - For any other doubts, you can get help in person, via WhatsApp, or via email: pythoneersCL@gmail.com
 
-## 📝 License
+## License
 
 This project is licensed under the **MIT License**.  
 You are free to use, share, and adapt the material with attribution.  
