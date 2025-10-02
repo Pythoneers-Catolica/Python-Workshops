@@ -3,7 +3,7 @@
 Welcome to the **Pythoneers Club of Católica Lisbon** Python Workshop!  
 This repository contains the **Jupyter Notebooks** for all workshop sessions. It is designed for both **self-study** and as a companion to live lectures.  
 
-> Open to everyone — while hosted by the Pythoneers Club, this workshop welcomes students and professionals from all backgrounds.
+> Open to everyone — while hosted by the Pythoneers Club, this workshop welcomes all students.
 
 ---
 
