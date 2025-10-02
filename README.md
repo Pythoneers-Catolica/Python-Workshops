@@ -44,3 +44,9 @@ This repository contains the **Jupyter Notebooks** for all workshop sessions. It
 
 - For questions during the workshop, ask in the session or contact the Pythoneers Club.
 - For any other doubts, you can get help in person, via WhatsApp, or via email: pythoneersCL@gmail.com
+
+## 📝 License
+
+This project is licensed under the **MIT License**.  
+You are free to use, share, and adapt the material with attribution.  
+See the [LICENSE](LICENSE) file for the full text.
