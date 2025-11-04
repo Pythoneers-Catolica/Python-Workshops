@@ -16,6 +16,14 @@ This repository contains the **Jupyter Notebooks** for all workshop sessions. It
   4. What are Jupyter Notebooks.
   5. Your very first `print()` statement.
 
+- **Session 1 — Variables, Data Types & Type Conversion**  
+  1. Understanding variables and assignment.  
+  2. Using the `print()` function.  
+  3. Working with core data types: `int`, `float`, `str`, and `bool`.  
+  4. Formatting text with **f-strings**.  
+  5. Getting user input with `input()`.  
+  6. Converting between types with `int()`, `float()`, `str()`, and `bool()`.  
+
 - *(More sessions will be added as the workshop progresses...)*
 
 ---
