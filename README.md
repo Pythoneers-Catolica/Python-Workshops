@@ -28,6 +28,15 @@ This repository contains the **Jupyter Notebooks** for all workshop sessions. It
 
 ---
 
+### Practice & Problem Sets
+
+Each session includes a **Problem Set** located in the **same folder** as the notebook.  
+Problem sets are **optional**, but **highly recommended** to strengthen your understanding through hands-on practice.
+
+**Solutions** will be uploaded to this repository **before the following class**, so you can review and compare your approach.
+
+---
+
 ## How to Use These Notebooks
 
 1. **Install Anaconda** (includes Python, Jupyter, and essential libraries).  
