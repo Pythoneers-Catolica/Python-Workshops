@@ -24,6 +24,13 @@ This repository contains the **Jupyter Notebooks** for all workshop sessions. It
   5. Getting user input with `input()`.  
   6. Converting between types with `int()`, `float()`, `str()`, and `bool()`.  
 
+- **Session 2 — Control Flow: Decisions and Loops**  
+  1. Revisiting boolean expressions (`True`/`False`) and comparison operators.  
+  2. Making decisions with `if`, `elif`, and `else`.  
+  3. Using `for` loops and the `range()` function to repeat calculations (year-by-year and month-by-month).  
+  4. Using `while` loops to repeat calculations until a condition is met (e.g. investment doubling, savings goals).  
+  5. Putting it all together in a simple monthly investment simulation.  
+
 - *(More sessions will be added as the workshop progresses...)*
 
 ---
