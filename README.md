@@ -29,7 +29,23 @@ This repository contains the **Jupyter Notebooks** for all workshop sessions. It
   2. Making decisions with `if`, `elif`, and `else`.  
   3. Using `for` loops and the `range()` function to repeat calculations (year-by-year and month-by-month).  
   4. Using `while` loops to repeat calculations until a condition is met (e.g. investment doubling, savings goals).  
-  5. Putting it all together in a simple monthly investment simulation.  
+  5. Putting it all together in a simple monthly investment simulation.
+ 
+- **Session 3 — Data Structures: Lists & Dictionaries
+    Why data structures (scaling beyond single variables).
+    Lists: create, index (incl. negatives), len/sum/min/max, slice; append; sort vs sorted.
+    Looping lists; membership (in); empty-list check.
+    Dictionaries: create, access/update, membership, get().
+    Looping dicts (keys/values/items); portfolio value + weights.
+    Optional: list-of-dicts, dict-of-lists; common errors (IndexError/KeyError); bridge to pandas.
+
+- **Session 3 — Data Structures: Lists & Dictionaries**  
+  1. Why data structures (scaling beyond single variables).  
+  2. Lists: create, index (incl. negatives), slice.  
+  3. List basics: `len`, `sum`, `min`, `max`; `append`; `sort()` vs `sorted()`.  
+  4. Looping lists; membership with `in`; empty-list checks.  
+  5. Dictionaries: create, access/update; membership; safe lookup with `get()`.  
+  6. Looping dicts (`keys`, `values`, `items`); portfolio value & weights.
 
 - *(More sessions will be added as the workshop progresses...)*
 
